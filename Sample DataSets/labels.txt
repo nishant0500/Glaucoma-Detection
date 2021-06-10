@@ -1,0 +1,2 @@
+0 Glaucoma
+1 No_Glaucoma 
