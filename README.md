@@ -13,6 +13,16 @@ gives great accuracy. A graphical user interface is used to diagnose the
 condition of test images and give a graphical analysis of the patients. 
 </p>
 
+## Project Description 😎
+ - Glaucoma is one of the most hazardous ocular diseases.
+     - <p align="justify">
+           Our Goal is to enhance the existing system with more accurate result. With the implantation of TensorFlow Framework and Keras model for deep learning and training the              model, the level of precision of the Glaucoma detection has unavoidably improved. When an image is uploaded into the system, it is compared to the model that has                  already been trained and then processed. <a href="http://ijsart.com/Home/IssueDetail?id=48809">Click Here</a> To Read More info in our journal Page.
+        </p>
+
 ## Trouble Working With this Repo , Here's the Instruction 😄
-- Project App Folder Consist of all the Soucre code for this project.
-  
+- Project App Folder Contains of all the Soucre code for this project.
+- Sample DataSets is also attached in this repo which can be used for analyzing outputs.
+- Here's a [link](https://nishant0500.github.io/Glaucoma-Detection/app/) to a live demo of the project 🙃
+
+
+
