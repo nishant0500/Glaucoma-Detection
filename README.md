@@ -23,6 +23,16 @@ condition of test images and give a graphical analysis of the patients.
 - Project App Folder Contains of all the Soucre code for this project.
 - Sample DataSets is also attached in this repo which can be used for analyzing outputs.
 - Here's a [link](https://nishant0500.github.io/Glaucoma-Detection/app/) to a live demo of the project 🙃
+- Steps to execute the project 👇
+  - Clone the Repo
+  - Download [Visual Studio Code](https://code.visualstudio.com/download)
+  - Open the app folder which consist of all the source code 
+  - Run the Model Using live Server extension / localhost.
+  - To Enhance or train the Model Use [Teachable Interface](https://teachablemachine.withgoogle.com/) Supported by google to train Api models.
+
+## Project Artifacts
+- <a href="http://ijsart.com/Home/IssueDetail?id=48809">Journal Paper</a>
+
 
 
 
