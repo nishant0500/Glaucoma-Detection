@@ -20,19 +20,45 @@ condition of test images and give a graphical analysis of the patients.
         </p>
 
 ## Trouble Working With this Repo , Here's the Instruction 😄
+
 - Project App Folder Contains of all the Soucre code for this project.
 - Sample DataSets is also attached in this repo which can be used for analyzing outputs.
-- Here's a [link](https://nishant0500.github.io/Glaucoma-Detection/app/) to a live demo of the project 🙃
+- Here's a [link](https://nishant0500.github.io/Glaucoma-Detection/app/) to a live demo of the project 💻
+- Tech Stack 
+  >Front End
+  >>HTML 5 , Css , Bootstrap 4, JavaScript
+  
+  >Backend 
+  >> Python , Tensor Flow - Keras API
+
 - Steps to execute the project 👇
-  - Clone the Repo
-  - Download [Visual Studio Code](https://code.visualstudio.com/download)
+  - Download any editor -->[Visual Studio Code](https://code.visualstudio.com/download)
   - Open the app folder which consist of all the source code 
   - Run the Model Using live Server extension / localhost.
   - To Enhance or train the Model Use [Teachable Interface](https://teachablemachine.withgoogle.com/) Supported by google to train Api models.
 
 ## Project Artifacts
+----------------------------
 - <a href="http://ijsart.com/Home/IssueDetail?id=48809">Journal Paper</a>
 
+## Credits
+----------------------------
+* Team Members
+  > [Nishant Bhushan](https://www.github.com/nishant0500) 
+  >> University RegNo : 211417104168
+  
+  > [Kumaran R](https://github.com/kumaranarajendiran)
+  >> University RegNo : 211417104125
+  
+  > [Niteesh Kumar P](https://github.com/)
+  >> University RegNo : 211417104171
+  
+* Supporting Staffs 
+  > Jainulabudeen S.A.K ( Project Mentor )
 
+* Special Thanks <br/>
+<p align="center">
+  <img width="600" height="150" src="https://user-images.githubusercontent.com/42842987/121531150-c8fec680-ca1b-11eb-8e14-c46ebc755e83.png">
+</p>
 
 
