@@ -40,6 +40,7 @@ condition of test images and give a graphical analysis of the patients.
 ## Project Artifacts
 
 - <a href="http://ijsart.com/Home/IssueDetail?id=48809">Journal Paper</a>
+- [Project PPT](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Glaucoma%C2%A0Detection%20Using%20Convolutional%20Neural%20Networks.pptx)
 
 ## Credits
 
@@ -50,7 +51,7 @@ condition of test images and give a graphical analysis of the patients.
   > [Kumaran R](https://github.com/kumaranarajendiran)
   >> University RegNo : 211417104125
   
-  > [Niteesh Kumar P](https://github.com/)
+  > [Niteesh Kumar P](https://github.com/nithishnithish18)
   >> University RegNo : 211417104171
   
 * Supporting Staffs 
