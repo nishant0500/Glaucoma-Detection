@@ -39,8 +39,10 @@ condition of test images and give a graphical analysis of the patients.
 
 ## Project Artifacts
 
-- <a href="http://ijsart.com/Home/IssueDetail?id=48809">Journal Paper</a>
+- [Abstract](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Abstract.docx)
 - [Project PPT](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Glaucoma%C2%A0Detection%20Using%20Convolutional%20Neural%20Networks.pptx)
+- - <a href="http://ijsart.com/Home/IssueDetail?id=48809">Journal Paper</a>
+
 
 ## Credits
 
