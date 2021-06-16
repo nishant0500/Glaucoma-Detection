@@ -38,11 +38,11 @@ condition of test images and give a graphical analysis of the patients.
   - To Enhance or train the Model Use [Teachable Interface](https://teachablemachine.withgoogle.com/) Supported by google to train Api models.
 
 ## Project Artifacts
-----------------------------
+
 - <a href="http://ijsart.com/Home/IssueDetail?id=48809">Journal Paper</a>
 
 ## Credits
-----------------------------
+
 * Team Members
   > [Nishant Bhushan](https://www.github.com/nishant0500) 
   >> University RegNo : 211417104168
