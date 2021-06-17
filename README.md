@@ -53,7 +53,7 @@ condition of test images and give a graphical analysis of the patients.
   > [Kumaran R](https://github.com/kumaranarajendiran)
   >> University RegNo : 211417104125
   
-  > [Niteesh Kumar P](https://github.com/nithishnithish18)
+  > [Nitheesh Kumar P](https://github.com/nithishnithish18)
   >> University RegNo : 211417104171
   
 * Supporting Staffs 
