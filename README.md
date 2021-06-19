@@ -41,13 +41,14 @@ condition of test images and give a graphical analysis of the patients.
 
 - [Abstract](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Abstract.docx)
 - [Project PPT](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Glaucoma%C2%A0Detection%20Using%20Convolutional%20Neural%20Networks.pptx)
-- <a href="http://ijsart.com/Home/IssueDetail?id=48809">Journal Paper</a>
+- [Journal Paper](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Glaucoma%C2%A0Detection%20Journal.docx)
+- [Project Report](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Final%20Project%20Report.docx)
 
 
 ## Credits
 
 * Team Members
-  > [Nishant Bhushan](https://www.github.com/nishant0500) 
+  > [Nishant Bhushan C](https://www.github.com/nishant0500) 
   >> University RegNo : 211417104168
   
   > [Kumaran R](https://github.com/kumaranarajendiran)
