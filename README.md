@@ -42,7 +42,7 @@ condition of test images and give a graphical analysis of the patients.
 - [Abstract](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Abstract.docx)
 - [Project PPT](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Glaucoma%C2%A0Detection%20Using%20Convolutional%20Neural%20Networks.pptx)
 - [Journal Paper](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Glaucoma%C2%A0Detection%20Journal.docx)
-- [Project Report](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Final%20Project%20Report.docx)
+- [Project Report](https://github.com/nishant0500/Glaucoma-Detection/blob/main/Project%20Report%20Updated.docx)
 
 
 ## Credits
